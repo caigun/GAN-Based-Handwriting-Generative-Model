@@ -1,10 +1,10 @@
 # GAN-Based-Handwriting-Generative-Model
 
-This is the implementation of the course project: __Enhancing GAN-Based Handwriting Generative Model: Handwriting Feature Extraction through LSTM and Transformer__.
+This is the implementation of the final course project: __Enhancing GAN-Based Handwriting Generative Model: Handwriting Feature Extraction through LSTM and Transformer__.
 
 The implementation includes the pipeline for creating handwriting (auto-labeled) dataset supplementary to IAM dataset, and the handwriting generator model with LSTM based feature extraction module.
 
-**Final Project** for _DDA4210 Advanced Machine Learning (2024 Spring)_ in CUHKSZ.
+_DDA4210 Advanced Machine Learning (2024 Spring)_ in CUHKSZ.
 
 **Members of Group 7**:
 
