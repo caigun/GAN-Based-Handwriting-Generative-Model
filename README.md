@@ -27,6 +27,8 @@ _DDA4210 Advanced Machine Learning (2024 Spring)_ in CUHKSZ.
 | OCR module                          | https://dl.acm.org/doi/10.1145/3550070                       | HiGAN+         |
 | GAN                                 | https://dl.acm.org/doi/10.1145/3550070                       | HiGAN+         |
 
+----
+
 ### Recipe
 
 #### Environment
@@ -37,7 +39,7 @@ We trained and tested our model on `Python 3.7` and `PyTorch 1.11.0`.
 
 Please refer to two directories `data` and `data_collector` for more details.
 
-#### Train
+#### Training
 
 Please First edit the configure file stored in the `configs` directory. You need to specify the dataset path and pre-trained checkpoint path.
 
@@ -60,3 +62,7 @@ python eval_demo.py --config ./configs/gan_image.yml --ckpt ./pretrained/ckpt.pt
 ```
 
 Change the newly trained model after `--ckpt` to the directory of the new `.pth` file.
+
+[Demo generated images](result-demo.png)
+
+
