@@ -63,6 +63,4 @@ python eval_demo.py --config ./configs/gan_image.yml --ckpt ./pretrained/ckpt.pt
 
 Change the newly trained model after `--ckpt` to the directory of the new `.pth` file.
 
-[Demo generated images](result-demo.png)
-
-
+![Demo generated images](result-demo.png)
