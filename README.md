@@ -4,7 +4,7 @@ This is the implementation of the course project: __Enhancing GAN-Based Handwrit
 
 The implementation includes the pipeline for creating handwriting (auto-labeled) dataset supplementary to IAM dataset, and the handwriting generator model with LSTM based feature extraction module.
 
-_DDA4210 Final Project, 2024 Spring, CUHKSZ_
+_Final Project for DDA4210 Advanced Machine Learning (2024 Spring) in CUHKSZ_
 
 **Members of Group 7**:
 
