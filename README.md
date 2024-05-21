@@ -8,13 +8,13 @@ _DDA4210 Spring, CUHKSZ_
 
 __Group members__:
 
-Lu, Li
+Lu, Li (121090272)
 
-Yiqu, Yang
+Yiqu, Yang (121090711)
 
-Jingxuan, Wu
+Jingxuan, Wu (121090607)
 
-Caijun, Wang
+Caijun, Wang (121090532)
 
 ----
 
