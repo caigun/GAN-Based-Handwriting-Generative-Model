@@ -6,7 +6,7 @@ The implementation includes the pipeline for creating handwriting (auto-labeled)
 
 _DDA4210 Final Project, 2024 Spring, CUHKSZ_
 
-__Members of Group 7:_
+**Members of Group 7**:
 
 Lu, Li (121090272)
 
