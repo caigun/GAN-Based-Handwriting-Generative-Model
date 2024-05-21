@@ -39,7 +39,7 @@ Please refer to two directories `data` and `data_collector` for more details.
 
 #### Train
 
-First edit the configure file stored in `configs/`. You need to specify the dataset path and pre-trained checkpoint path.
+Please First edit the configure file stored in the `configs` directory. You need to specify the dataset path and pre-trained checkpoint path.
 
 Then, run the command
 
