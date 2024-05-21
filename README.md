@@ -8,13 +8,13 @@ _DDA4210 Final Project, 2024 Spring, CUHKSZ_
 
 **Members of Group 7**:
 
-Lu, Li (121090272)
+- Lu, Li (121090272)
 
-Yiqu, Yang (121090711)
+- Yiqu, Yang (121090711)
 
-Jingxuan, Wu (121090607)
+- Jingxuan, Wu (121090607)
 
-Caijun, Wang (121090532)
+- Caijun, Wang (121090532)
 
 ----
 
