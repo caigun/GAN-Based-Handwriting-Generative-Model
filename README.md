@@ -2,11 +2,11 @@
 
 This is the implementation of the course project: __Enhancing GAN-Based Handwriting Generative Model: Handwriting Feature Extraction through LSTM and Transformer__
 
-The implementation includes the pipeline for creating handwriting dataset supplementary to IAM dataset, and the handwriting generator model with LSTM based feature extraction module.
+The implementation includes the pipeline for creating handwriting (auto-labeled) dataset supplementary to IAM dataset, and the handwriting generator model with LSTM based feature extraction module.
 
-_DDA4210 Spring, CUHKSZ_
+_DDA4210 Final Project, 2024 Spring, CUHKSZ_
 
-__Group members__:
+__Members of Group 7:
 
 Lu, Li (121090272)
 
@@ -33,6 +33,10 @@ Caijun, Wang (121090532)
 
 We trained and tested our model on `Python 3.7` and `PyTorch 1.11.0`.
 
+#### Our Dataset Collection
+
+Please refer to two directories `data` and `data_collector` for more details.
+
 #### Train
 
 First edit the configure file stored in `configs/`. You need to specify the dataset path and pre-trained checkpoint path.
@@ -55,4 +59,4 @@ Then, run the command
 python eval_demo.py --config ./configs/gan_image.yml --ckpt ./pretrained/ckpt.pth --mode style
 ```
 
-change the newly trained model after `--ckpt` to the directory of the new `.pth` file.
+Change the newly trained model after `--ckpt` to the directory of the new `.pth` file.
