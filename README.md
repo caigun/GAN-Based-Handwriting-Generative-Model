@@ -2,7 +2,7 @@
 
 This is the implementation of the final course project: __Enhancing GAN-Based Handwriting Generative Model: Handwriting Feature Extraction through LSTM and Transformer__.
 
-The implementation includes the pipeline for creating handwriting (auto-labeled) dataset supplementary to IAM dataset, and the handwriting generator model with LSTM based feature extraction module.
+The implementation includes the pipeline for creating a handwriting (auto-labeled) dataset supplementary to the IAM dataset, and the handwriting generator model with an LSTM-based feature extraction module.
 
 _DDA4210 Advanced Machine Learning (2024 Spring)_ in CUHKSZ.
 
