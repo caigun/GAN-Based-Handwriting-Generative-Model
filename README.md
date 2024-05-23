@@ -6,7 +6,7 @@ The implementation includes the pipeline for creating a handwriting (auto-labele
 
 _DDA4210 Advanced Machine Learning (2024 Spring)_ in CUHKSZ.
 
-**Members of Group 7**:
+**Members of Group 7:**
 
 - Lu, Li (121090272)
 
